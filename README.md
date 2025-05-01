@@ -1,4 +1,4 @@
-Note: this version uses local Ollama, although it's not the best LLM available, because it's free and not too heavy to run on my computer. 
+Note: this version uses local Ollama even though it's not the best LLM available, because it's free and not too heavy to run on my computer. 
 For more accurate result and a longer list of websites to monitor, it would be great to connect ChatGPT API, but it's not free.
 
 Files description
