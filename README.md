@@ -1,4 +1,4 @@
-This repo contains two job checker attempts I'm using. 
+This repo contains two job checker attempts I'm using. // \\
 Option 1--> job_checker_simple.ipynb  | very simple, connected to a gsheet that I'm using to keep track of the career websites I want to check. it detects ANY change in such websites.
 Option 2--> 1_scrape_pages.py + 2_extract_jobs_LLM.py + (upcoming)  | more complex, use Ollama 3.2 locally to detect which position have been added. Work in progress. 
 
